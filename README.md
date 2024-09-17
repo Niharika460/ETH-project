@@ -7,7 +7,9 @@ Description
 This program is a simple contract written in Solidity. Solidity is a programming language used for developing smart contracts on the Ethereum blockchain. The contract has functions like mint and burn. Mint function is used to increase the total supply by the number passed and increases the balance of the address by that amount. Burn function is used to decrease the total supply by the number passed and decreases the balance of the address by that amount.
 
 Getting Started
+
 Executing program
+
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., Project.sol). Copy and paste the code into the file.
